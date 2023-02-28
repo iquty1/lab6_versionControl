@@ -5,4 +5,5 @@ In this repository, there is a python notebook file that contains a python progr
 
 
 Licence: We picked GNU General Public License v3.0 because the program was not for profit or anything and we felt that it was fine for anyone to use or refrence this assignment if they want to.
-Code of Conduct:
+
+Code of Conduct: We picked Contributor Covenant Code of Conduct because github reccomends it for projects of any size. In an open source project, having a code of conduct is important so that malicious people don't come in and mess things up or cause harm to others.
